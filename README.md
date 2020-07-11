@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### About me 👋
+- An Engineer! 
+- I do Server stuff!
+- Love making programs faster!
+- Rust is my current favorite language! :crab:
 <!--
 **kavirajk/kavirajk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
